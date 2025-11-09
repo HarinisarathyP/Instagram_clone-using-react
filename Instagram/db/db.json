@@ -1,0 +1,210 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "user": {
+        "id": 101,
+        "username": "john_doe",
+        "profile_pic": "src/assets/Johndoe.jpg"
+      },
+      "image": "src/assets/sunset_waterfall.jpeg",
+      "caption": "Beautiful sunset 🌅 #Nature",
+      "likes": 120,
+      "comments": [
+        {
+          "user": "alice_wonder",
+          "comment": "Wow! Amazing shot! 📸"
+        },
+        {
+          "user": "mark_92",
+          "comment": "Where is this place?"
+        }
+      ],
+      "timestamp": "2025-02-11T14:30:00Z"
+    },
+    {
+      "id": "2",
+      "user": {
+        "id": 102,
+        "username": "emma_travels",
+        "profile_pic": "src/assets/emmat_travels.jpg"
+      },
+      "image": "/src/assets/mountain.jpeg",
+      "caption": "Climbed to the top today 🏔️ #Adventure #Hiking",
+      "likes": 254,
+      "comments": [
+        {
+          "user": "john_doe",
+          "comment": "That view is incredible!"
+        },
+        {
+          "user": "lucas_91",
+          "comment": "Adding this to my bucket list!"
+        }
+      ],
+      "timestamp": "2025-03-22T09:15:00Z"
+    },
+    {
+      "id": "3",
+      "user": {
+        "id": 103,
+        "username": "foodie_life",
+        "profile_pic": "src/assets/profile_foodie.jpeg"
+      },
+      "image": "src/assets/food_eating.jpg",
+      "caption": " night with the gang 🍝❤️ #Foodie #Yum",
+      "likes": 198,
+      "comments": [
+        {
+          "user": "emma_travels",
+          "comment": "have fun 😋"
+        },
+        {
+          "user": "chef_tony",
+          "comment": "you left meee!"
+        }
+      ],
+      "timestamp": "2025-05-18T18:45:00Z"
+    },
+    {
+      "id": "4",
+      "user": {
+        "id": 104,
+        "username": "tech_guy",
+        "profile_pic": "src/assets/profile_techie.jpeg"
+      },
+      "image": "src/assets/techie-desk.jpg",
+      "caption": "My new minimalist setup 💻✨ #WorkspaceGoals",
+      "likes": 320,
+      "comments": [
+        {
+          "user": "john_doe",
+          "comment": "Clean and simple! 🔥"
+        },
+        {
+          "user": "mark_92",
+          "comment": "Which monitor is that?"
+        }
+      ],
+      "timestamp": "2025-06-09T12:05:00Z"
+    },
+    {
+      "id": "5",
+      "user": {
+        "id": 105,
+        "username": "lucas_91",
+        "profile_pic": "src/assets/lucus.jpeg"
+      },
+      "image": "src/assets/surf_lucus.jpeg",
+      "caption": "Catching waves 🏄‍♂️🌊 #BeachVibes",
+      "likes": 411,
+      "comments": [
+        {
+          "user": "emma_travels",
+          "comment": "This looks amazing!"
+        },
+        {
+          "user": "john_doe",
+          "comment": "You’re killing it!"
+        }
+      ],
+      "timestamp": "2025-07-14T10:00:00Z"
+    }
+  ],
+  "profile": {
+    "id": 101,
+    "username": "meee",
+    "profile_pic": "/src/assets/profile_alice.jpeg"
+  },
+  "suggestions": [
+    {
+      "id": "11",
+      "username": "john_doe",
+      "profile_pic": "src/assets/Johndoe.jpg"
+    },
+    {
+      "id": "12",
+      "username": "emma_travels",
+      "profile_pic": "src/assets/emmat_travels.jpg"
+    },
+    {
+      "id": "13",
+      "username": "foodie_life",
+      "profile_pic": "src/assets/profile_foodie.jpeg"
+    },
+    {
+      "id": "14",
+      "username": "tech_guy",
+      "profile_pic": "src/assets/profile_techie.jpeg"
+    },
+    {
+      "id": "15",
+      "username": "lucas_91",
+      "profile_pic": "src/assets/lucus.jpeg"
+    }
+  ],
+  "story": [
+    {
+      "id": "1",
+      "user": {
+        "id": 11,
+        "username": "john_doe",
+        "profile_pic": "src/assets/Johndoe.jpg"
+      },
+      "image": "/src/assets/sty1.jpeg"
+    },
+    {
+      "id": "2",
+      "user": {
+        "id": 12,
+        "username": "emma_travels",
+        "profile_pic": "src/assets/emmat_travels.jpg"
+      },
+      "image": "/src/assets/sty2.jpeg"
+    },
+    {
+      "id": "3",
+      "user": {
+        "id": 13,
+        "username": "foodie_life",
+        "profile_pic": "src/assets/profile_foodie.jpeg"
+      },
+      "image": "/src/assets/sty3.jpg"
+    },
+    {
+      "id": "4",
+      "user": {
+        "id": 14,
+        "username": "tech_guy",
+        "profile_pic": "src/assets/profile_techie.jpeg"
+      },
+      "image": "/src/assets/sty4.jpeg"
+    },
+    {
+      "id": "5",
+      "user": {
+        "id": 15,
+        "username": "lucas_91",
+        "profile_pic": "src/assets/lucus.jpeg"
+      },
+      "image": "/src/assets/sty5.jpeg"
+    }
+  ],
+  "followers": [
+    {
+      "id": "13",
+      "username": "foodie_life",
+      "profile_pic": "src/assets/profile_foodie.jpeg"
+    },
+    {
+      "id": "15",
+      "username": "lucas_91",
+      "profile_pic": "src/assets/lucus.jpeg"
+    },
+    {
+      "id": "12",
+      "username": "emma_travels",
+      "profile_pic": "src/assets/emmat_travels.jpg"
+    }
+  ]
+}
