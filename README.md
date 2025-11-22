@@ -7,6 +7,10 @@ View the deployed version of the project here:
 
 [**https://instacloneusingreact.netlify.app/**](https://instacloneusingreact.netlify.app/)
 
+
+https://youtu.be/6uKE6sbQmBw
+
+
 ***
 
 ## 💡 About
